@@ -6,3 +6,5 @@ Pytorch to train an agent to play the snake game.
 2) Models starts to perform decently after about 80 game tries may stretch to 100
 
 3) Open root folder in vs code where main python files and graphics folder are
+
+4) Run Agent.py to start program 
